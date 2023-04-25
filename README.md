@@ -1,1 +1,1 @@
-# Bank-Marketing-Prediction-Using-ML
+# Bank-Marketing-Prediction
